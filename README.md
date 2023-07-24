@@ -1,6 +1,6 @@
 # Turkiye Car Prices estimator (2020 data)
 
-
+> Important: on branch ilker, i tried to handle the data as TIME SERIES and i tried new preprogres methods i believe useful.
 ## 1. Problem Definition
 In our case, the problem we will be exploring is **regression** (predict dependent variable thanks to independent variables). 
 
